@@ -5,7 +5,7 @@ Multiprocess download photos from txt list and check if there is a person.
 No GPU is required 
 ## Installation
 ```bash
-git clone https://github.com/vonider/online-face-recognition.git
+git clone https://github.com/fakhr-al-din/online-face-recognition.git
 cd online-face-recognition
 python -m pip install -r requirements.txt
 ```
